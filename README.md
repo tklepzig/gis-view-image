@@ -1,4 +1,4 @@
-# Make Google Image Search Great Again!
+# GIS View Image
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hgngncnljacgakaiifjcgdnknaglfipo.svg)](https://chrome.google.com/webstore/detail/google-search-view-image/hgngncnljacgakaiifjcgdnknaglfipo)
 [![Mozilla Add-on](https://img.shields.io/amo/v/google-search-view-image.svg)](https://addons.mozilla.org/en-US/firefox/addon/google-search-view-image/)
